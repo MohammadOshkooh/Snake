@@ -1,6 +1,6 @@
 # Snake Game
 
-A simple Snake game implemented in Python. The game features different items that affect the snake's health, score, and speed. It includes three different modes of gameplay.
+A simple Snake game implemented in Python and c. The game features different items that affect the snake's health, score, and speed. It includes three different modes of gameplay.
 
 ## Game Rules
 
